@@ -1,4 +1,4 @@
-*	$ git init   //Initialize local git Repository  
+*	$ git init   //Initialize local git Repository _
 
 
 *	$ git add <file> //Add  fles(s) To index   
