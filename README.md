@@ -1,5 +1,5 @@
-*	$ git init   //Initialize local git Repository
-*	$ git add <file> //Add  fles(s) To index
+*	$ git init   //Initialize local git Repository <br />
+*	$ git add <file> //Add  fles(s) To index 
 *	$ git status //Check Status of Working Tree
 *	$ git commit //Commit Changes in index
 *	$ git pull    //Pull latest from remote repository
